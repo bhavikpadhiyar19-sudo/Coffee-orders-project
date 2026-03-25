@@ -4,12 +4,6 @@ A end-to-end data analysis project built entirely in Microsoft Excel — from ra
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
-
 ## 🔍 Project Background
 
 This project was built around a coffee retail dataset containing order transactions, customer details, and product information. The raw data had missing values, inconsistent formats, and required multiple tables to be linked together — pretty much what you'd encounter working with real business data.
